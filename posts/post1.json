@@ -1,0 +1,7 @@
+{
+  "title": "First Blog Post",
+  "date": "2026-04-07",
+  "author": "Fabien",
+  "content": "<p>Welcome to EmDash CMS! This is the first post styled in grey, black, and white.</p>",
+  "tags": ["intro", "cms"]
+}
