@@ -1,0 +1,9 @@
+{
+  "siteTitle": "EmDash CMS",
+  "menu": [
+    { "name": "Home", "link": "/" },
+    { "name": "Blog", "link": "/blog" },
+    { "name": "About", "link": "/about" }
+  ],
+  "footerText": "© 2026 EmDash CMS"
+}
