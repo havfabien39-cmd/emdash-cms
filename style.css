@@ -1,0 +1,44 @@
+/* Blog layout */
+.blog-container {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 2rem;
+}
+
+.posts {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.post-card {
+  background: #fff;
+  border: 1px solid #444;
+  padding: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.post-card h2 {
+  color: #000;
+  margin-top: 0;
+}
+
+.post-card p {
+  color: #333;
+}
+
+/* Sidebar widgets */
+.sidebar {
+  background: #000;
+  color: #fff;
+  padding: 1rem;
+}
+
+.widget {
+  margin-bottom: 2rem;
+}
+
+.widget h3 {
+  border-bottom: 2px solid #fff;
+  padding-bottom: 0.5rem;
+}
